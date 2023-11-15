@@ -1,0 +1,1 @@
+### Full-Stack project using TypeScript, React, NextJS and NestJS.
